@@ -3,3 +3,6 @@ test.png
 GoogleTrans/.ipynb_checkpoints
 TextRank/.ipynb_checkpoints
 TextRank/textrank
+dataset/
+.cache/kobert_news_wiki_ko_cased-1087f8699e.spiece
+.ipynb_checkpoints/
