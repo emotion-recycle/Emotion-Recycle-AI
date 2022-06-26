@@ -6,3 +6,5 @@ TextRank/textrank
 dataset/
 .cache/kobert_news_wiki_ko_cased-1087f8699e.spiece
 .ipynb_checkpoints/
+.cache/kobert_from_pretrained/pytorch_model.bin
+.cache/kobert_v1.zip
