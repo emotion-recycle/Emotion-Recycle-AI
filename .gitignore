@@ -8,3 +8,5 @@ dataset/
 .ipynb_checkpoints/
 .cache/kobert_from_pretrained/pytorch_model.bin
 .cache/kobert_v1.zip
+img/
+testimg/
