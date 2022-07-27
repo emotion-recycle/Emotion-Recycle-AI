@@ -1,3 +1,3 @@
 # Emotion-Recycle-AI
  
-konlpy -> TextRank -> DELL-E
+![workflow](https://github.com/emotion-recycle/Emotion-Recycle-AI/tree/main/flow/workflow.png)
