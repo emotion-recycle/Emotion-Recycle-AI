@@ -10,3 +10,6 @@ dataset/
 .cache/kobert_v1.zip
 img/
 testimg/
+model/all.tar
+model/KoBERT_test.pt
+model/model_state_dict.pt
